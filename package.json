@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite dev",
     "build": "vite build",
-    "start": "node dist/server/server.js",
+    "start": "npx vinxi start",
     "build:dev": "vite build --mode development",
     "preview": "vite preview",
     "lint": "eslint .",
