@@ -28,7 +28,6 @@ export const Route = createFileRoute("/")({
 });
 
 function Landing() {
-  console.log("Deployed via GitHub Actions! CI/CD is working perfectly.");
   return (
     <div className="relative min-h-screen overflow-hidden bg-background text-foreground">
       <div className="pointer-events-none absolute inset-x-0 top-0 h-[600px] bg-warm-glow" />
