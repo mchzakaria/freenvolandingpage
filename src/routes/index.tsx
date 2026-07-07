@@ -815,7 +815,7 @@ function CtaBand() {
             />
             <button
               type="submit"
-              className="inline-flex items-center justify-center gap-2 rounded-xl bg-brand px-5 py-3 text-sm font-medium text-brand-foreground transition-transform hover:-translate-y-0.5"
+              className="inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-xl bg-brand px-5 py-3 text-sm font-medium text-brand-foreground transition-transform hover:-translate-y-0.5"
             >
               Try for free
             </button>
